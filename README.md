@@ -1,2 +1,2 @@
 # admission
-created a online admission site for our college
+created an online admission site for our college
